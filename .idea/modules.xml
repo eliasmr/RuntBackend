@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/alianza.iml" filepath="$PROJECT_DIR$/alianza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runt.iml" filepath="$PROJECT_DIR$/runt.iml" />
     </modules>
   </component>
 </project>

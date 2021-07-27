@@ -6,16 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="runt" />
         <module name="alianza" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="alianza" target="1.8" />
+      <module name="runt" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="alianza" options="-parameters" />
+      <module name="runt" options="-parameters" />
     </option>
   </component>
 </project>
