@@ -1,0 +1,17 @@
+C:\Users\admin\Documents\proyectos\intellij\RuntBackend\src\main\java\com\co\runt\controller\ClienteController.java
+C:\Users\admin\Documents\proyectos\intellij\RuntBackend\src\main\java\com\co\runt\model\entity\Cliente.java
+C:\Users\admin\Documents\proyectos\intellij\RuntBackend\src\main\java\com\co\runt\model\entity\Colegio.java
+C:\Users\admin\Documents\proyectos\intellij\RuntBackend\src\main\java\com\co\runt\model\repository\ClienteRepository.java
+C:\Users\admin\Documents\proyectos\intellij\RuntBackend\src\main\java\com\co\runt\model\entity\Estudiante.java
+C:\Users\admin\Documents\proyectos\intellij\RuntBackend\src\main\java\com\co\runt\model\entity\Profesor.java
+C:\Users\admin\Documents\proyectos\intellij\RuntBackend\src\main\java\com\co\runt\model\service\IClienteService.java
+C:\Users\admin\Documents\proyectos\intellij\RuntBackend\src\main\java\com\co\runt\model\entity\AsignaturaXEstudiante.java
+C:\Users\admin\Documents\proyectos\intellij\RuntBackend\src\main\java\com\co\runt\model\service\impl\ClienteImpl.java
+C:\Users\admin\Documents\proyectos\intellij\RuntBackend\src\main\java\com\co\runt\RuntApplication.java
+C:\Users\admin\Documents\proyectos\intellij\RuntBackend\src\main\java\com\co\runt\dto\PayLoad.java
+C:\Users\admin\Documents\proyectos\intellij\RuntBackend\src\main\java\com\co\runt\model\entity\Curso.java
+C:\Users\admin\Documents\proyectos\intellij\RuntBackend\src\main\java\com\co\runt\dto\ClienteDTO.java
+C:\Users\admin\Documents\proyectos\intellij\RuntBackend\src\main\java\com\co\runt\model\helpers\ClienteHelpers.java
+C:\Users\admin\Documents\proyectos\intellij\RuntBackend\src\main\java\com\co\runt\env\EndPoint.java
+C:\Users\admin\Documents\proyectos\intellij\RuntBackend\src\main\java\com\co\runt\model\entity\Asignatura.java
+C:\Users\admin\Documents\proyectos\intellij\RuntBackend\src\main\java\com\co\runt\ServletInitializer.java
